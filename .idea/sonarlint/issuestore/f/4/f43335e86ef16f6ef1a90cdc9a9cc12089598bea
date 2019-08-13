@@ -1,0 +1,4 @@
+
+‚"squid:ClassVariableVisibilityCheck"OMake des a static final constant or non-public and provide accessors if needed.(ž‰ö·8…¤ä¥Æ-
+]squid:UnusedPrivateMethod".Remove this unused private "User" constructor.(‘ÂƒÊúÿÿÿÿ8…¤ä¥Æ-
+Lsquid:S1172"+Remove this unused method parameter "list".(¹æ‡æúÿÿÿÿ8­Ðî¥Æ-

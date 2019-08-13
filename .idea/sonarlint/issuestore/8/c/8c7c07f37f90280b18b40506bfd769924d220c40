@@ -1,0 +1,7 @@
+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôŸê8ƒå‰±Æ-
+=squid:S2129"!Remove this "Integer" constructor(Úïœú8Ÿ¤–±Æ-
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìëåP8ıÊŠ±Æ-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑòÇ¾8ƒå‰±Æ-
+_squid:S1226">Introduce a new variable instead of reusing the parameter "i".(Úùôıÿÿÿÿ8ÑÌ—±Æ-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ¹—8È€†±Æ-

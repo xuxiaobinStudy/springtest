@@ -1,0 +1,11 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾’ÊÈÀ-
+`squid:S2147"DCombine this catch with the one at line 69, which has the same body.(ï­£Ä8„õÓÈÀ-
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(Š°Ô‹8»òÌÈÀ-
+`squid:S2147"DCombine this catch with the one at line 69, which has the same body.(‹±ÃÆ8¾’ÊÈÀ-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8†¡ÖÈÀ-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„õÓÈÀ-
+Lsquid:S1481"0Remove this unused "xmlEncoding" local variable.(½çùİ8‘Ì½ÇÀ-
+[squid:S1118":Add a private constructor to hide the implicit public one.(Ñ¹¢ºÿÿÿÿÿ8‘Ì½ÇÀ-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾’ÊÈÀ-
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‘»ÔÈÀ-
