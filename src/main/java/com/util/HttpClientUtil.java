@@ -23,7 +23,7 @@ public class HttpClientUtil {
     }
     // 无参GET方法
     public static void doGet() {
-
+        System.out.println();
     }
 
     // 有参GET方法
